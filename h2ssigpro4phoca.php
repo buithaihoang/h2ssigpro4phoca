@@ -1,5 +1,6 @@
 <?php
 //add new 1
+//update from other
 defined('_JEXEC') or die;
  
 class PlgContentH2SSigPro4Phoca extends JPlugin
